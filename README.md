@@ -1,7 +1,9 @@
 # Recipes
 
 a repo to store some recipes
-### *Here are some of my favorite recipes*
+
+## *Here are some of my favorite recipes*
+
 ---
 
 1. Salsas
